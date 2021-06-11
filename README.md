@@ -51,3 +51,15 @@ Identificamos que, además de usar el mismo principio de que para medir voltaje 
 
 # 8. Referencias
 
+McMahon, A.M., The Making of a Profession: A Century of Electrical Engineering in America, IEEE 
+Press, Nueva York, 1984.
+
+Mottershead, A. Introduction to Electricity and Electronics:
+Conventional and Current Version. 3a. ed. Englewood Cliffs,
+NJ: Prentice Hall, 1990.
+
+Mayergoyz, I. D., y W. Lawson. Basic Electric Circuits Theory.
+San Diego, CA: Academic Press, 1997.
+
+Smith, K. C. y R. E. Alley. Electrical Circuits: An Introduction.
+Nueva York: Cambridge Univ. Press, 1992.
