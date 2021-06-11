@@ -43,6 +43,9 @@
 
 
 # 6. Video
+
+https://youtu.be/yZ-zQhiM4Ss
+
 # 7. Conclusiones
 - Entendimos que es importante identificar las corrientes y sus sentidos para, a través de la ley de nodos de Kirchhoff, guiarnos en el análisis de nuestro circuito malla por malla. Nos apoyamos en el análisis de mallas para calcular el voltaje de cada uno de los elementos y como el voltaje se es el mismo en los elementos en paralelo (Ley de Ohm).
 Identificamos que, además de usar el mismo principio de que para medir voltaje usamos el voltímetro en serio y a para el amperaje en paralelo, debemos ser más cautelosos identificando las líneas de nuestro circuito.
@@ -51,15 +54,15 @@ Identificamos que, además de usar el mismo principio de que para medir voltaje 
 
 # 8. Referencias
 
-McMahon, A.M., The Making of a Profession: A Century of Electrical Engineering in America, IEEE 
+- McMahon, A.M., The Making of a Profession: A Century of Electrical Engineering in America, IEEE 
 Press, Nueva York, 1984.
 
-Mottershead, A. Introduction to Electricity and Electronics:
+- Mottershead, A. Introduction to Electricity and Electronics:
 Conventional and Current Version. 3a. ed. Englewood Cliffs,
 NJ: Prentice Hall, 1990.
 
-Mayergoyz, I. D., y W. Lawson. Basic Electric Circuits Theory.
+- Mayergoyz, I. D., y W. Lawson. Basic Electric Circuits Theory.
 San Diego, CA: Academic Press, 1997.
 
-Smith, K. C. y R. E. Alley. Electrical Circuits: An Introduction.
+- Smith, K. C. y R. E. Alley. Electrical Circuits: An Introduction.
 Nueva York: Cambridge Univ. Press, 1992.
