@@ -39,8 +39,8 @@
 ![WhatsApp Image 2021-06-10 at 22 31 43 (1)](https://user-images.githubusercontent.com/85137954/121626848-d0ce6300-ca3b-11eb-8559-cdc689349ccf.jpeg)
 
 5.2 Mida cada una de las corrientes de malla y anote los resultados en la tabla
-![WhatsApp Image 2021-06-10 at 22 33 56](https://user-images.githubusercontent.com/85137954/121626915-f491a900-ca3b-11eb-8515-26b431a59e26.jpeg)
 
+![WhatsApp Image 2021-06-11 at 07 31 02](https://user-images.githubusercontent.com/85137954/121686660-18c6a780-ca87-11eb-8f38-31960d726cac.jpeg)
 
 # 6. Video
 
