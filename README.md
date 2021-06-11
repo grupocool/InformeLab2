@@ -1,6 +1,12 @@
 # Informe de Laboratorio 2
-# 1. Objetivo General 
+# 1. Objetivo General
+- Comprobar experimentalmente el análisis de mallas y establecer relación entre la Ley de Ohm y las leyes de Kirchhoff.
 ## 1.2 Objetivos Específicos
+- Entender la importancia de conceptos básicos de la teoría del análisis de circuitos para llevarlos a la experimentación. 
+- Identificar el uso adecuado de los instrumentos de medición, para usarlos de manera correcta en el análisis de mallas en nuestro circuito.
+- Comparar los cálculos teóricos con los prácticos y analizar el margen de error.
+- Buscar la técnica más efectiva para el análisis de mallas.
+
 # 2. Requisitos Previos
 # 3. Marco Teórico
 ![png (2)](https://user-images.githubusercontent.com/85137954/121615684-10d71b00-ca27-11eb-8152-de3150ee0483.png)
@@ -30,6 +36,11 @@
 
 
 # 6. Video
-# 7. Concluciones
+# 7. Conclusiones
+- Entendimos que es importante identificar las corrientes y sus sentidos para, a través de la ley de nodos de Kirchhoff, guiarnos en el análisis de nuestro circuito malla por malla. Nos apoyamos en el análisis de mallas para calcular el voltaje de cada uno de los elementos y como el voltaje se es el mismo en los elementos en paralelo (Ley de Ohm).
+Identificamos que, además de usar el mismo principio de que para medir voltaje usamos el voltímetro en serio y a para el amperaje en paralelo, debemos ser más cautelosos identificando las líneas de nuestro circuito.
+- Comparando los cálculos y las mediciones, pudimos concluir que siempre va a existir un margen de error, pero lo importante es que sea mínimo.
+- Encontramos que la técnica de mallas, en conjunto con la ley de ohm, para el análisis general resultó bastante efectiva para la resolución de nuestro problema teórico.
+
 # 8. Referencias
 
