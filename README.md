@@ -8,6 +8,13 @@
 - Buscar la técnica más efectiva para el análisis de mallas.
 
 # 2. Requisitos Previos
+
+![image](https://user-images.githubusercontent.com/85137954/121637426-f5800600-ca4e-11eb-9c0e-a037df8b81e3.png)
+
+![image](https://user-images.githubusercontent.com/85137954/121637546-24967780-ca4f-11eb-8ccd-f5dbe26abd56.png)
+
+![image](https://user-images.githubusercontent.com/85137954/121637612-4132af80-ca4f-11eb-8918-bb9c9d178a40.png)
+
 # 3. Marco Teórico
 ![png (2)](https://user-images.githubusercontent.com/85137954/121615684-10d71b00-ca27-11eb-8152-de3150ee0483.png)
 # 4. Material y Equipo Requerido
