@@ -1,5 +1,5 @@
-# InformeLab2
-# 1. Objetivos
+# Informe de Laboratorio 2
+# 1. Objetivo General 
 ## 1.2 Objetivos Específicos
 # 2. Requisitos Previos
 # 3. Marco Teórico
