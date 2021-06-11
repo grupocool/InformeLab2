@@ -40,7 +40,7 @@
 
 5.2 Mida cada una de las corrientes de malla y anote los resultados en la tabla
 
-![WhatsApp Image 2021-06-11 at 07 32 52](https://user-images.githubusercontent.com/85137954/121686840-4b70a000-ca87-11eb-96f0-3089df457cef.jpeg)
+![WhatsApp Image 2021-06-11 at 08 30 42](https://user-images.githubusercontent.com/85137954/121694331-a3130980-ca8f-11eb-8daf-40e4c7006f04.jpeg)
 
 # 6. Video
 
